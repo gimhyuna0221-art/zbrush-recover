@@ -1,0 +1,17 @@
+# ZBrush / 3D files
+*.zpr
+*.ztl
+*.obj
+*.fbx
+*.ma
+*.mb
+*.blend
+
+# Archives
+*.zip
+*.7z
+*.rar
+
+# OS
+.DS_Store
+Thumbs.db
