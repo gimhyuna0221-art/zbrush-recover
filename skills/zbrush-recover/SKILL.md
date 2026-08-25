@@ -1,6 +1,9 @@
 ---
 name: zbrush-recover
 description: Diagnose and salvage corrupted ZBrush QuickSave, Recovered ZPR, and ZTL files while preserving originals. Use when ZBrush crashes while saving, a recovered project crashes on load, or a corrupted SubTool prevents a Tool from opening normally.
+license: MIT
+metadata:
+  version: "0.1.0"
 ---
 
 # zbrush-recover
