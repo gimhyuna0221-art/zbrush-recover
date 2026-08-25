@@ -3,7 +3,7 @@ name: zbrush-recover
 description: Diagnose and salvage corrupted ZBrush QuickSave, Recovered ZPR, and ZTL files while preserving originals. Includes a confirmed ZBrush 2023.2.2 recovery path for isolating and deleting a corrupted SubTool.
 ---
 
-# /zbrush-recover
+# zbrush-recover
 
 ## Purpose
 Recover as much usable ZBrush geometry/SubTool data as possible from a corrupted QuickSave, Recovered ZPR, or ZTL while minimizing further damage.
