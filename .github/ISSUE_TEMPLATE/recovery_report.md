@@ -2,7 +2,7 @@
 name: Recovery report
 about: Report a ZBrush recovery success or failure
 title: "[Recovery] "
-labels: recovery-case
+labels: ""
 assignees: ""
 ---
 
