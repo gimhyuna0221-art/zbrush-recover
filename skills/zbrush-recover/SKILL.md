@@ -35,12 +35,14 @@ Collect:
 - Exact error message or Windows Event Viewer crash code when useful.
 - `LogCorruptedFiles.txt` when ZBrush creates it.
 
-For ZBrush 2023, common data location:
+For ZBrush 2023, a common data location is:
 `C:\Users\Public\Documents\ZBrushData2023\`
+
+Exact recovery folders can vary by ZBrush version and configuration.
 
 Common recovery locations:
 - `QuickSave`
-- `RecoveredFiles`
+- `RecoveredFiles` (if present; location and availability vary by ZBrush version)
 - `LogCorruptedFiles.txt`
 - `ZPluginData\TransposeMasterData`
 
