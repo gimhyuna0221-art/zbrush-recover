@@ -109,6 +109,10 @@ zbrush-recover/
 ├─ CHANGELOG.md
 ├─ CONTRIBUTING.md
 ├─ SECURITY.md
+├─ .gitignore
+├─ .github/
+│  └─ ISSUE_TEMPLATE/
+│     └─ recovery_report.md
 ├─ docs/
 │  └─ case-study-zbrush-2023.2.2.md
 └─ skills/
